@@ -1,0 +1,11 @@
+{
+  "name": "SmrithiSangam — AI Cognitive Companion for Elderly Dementia Care",
+  "description": "Cross-platform cognitive therapy and monitoring app for elderly dementia care in India's North Eastern Region (SIH26003, MDoNER). Features offline-first local storage, voice-guided games in Assamese, Manipuri, Khasi, and Mizo, rule-based adaptive difficulty, and caregiver/ASHA decline tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
